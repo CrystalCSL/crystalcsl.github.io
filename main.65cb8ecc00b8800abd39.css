@@ -232,7 +232,7 @@ input[type=number] {
     content: "";
     width: 40px;
     height: 40px;
-    background: url(/d01c1c79b8afb37bd3128ea41b4f41fb.png) 0 0 no-repeat;
+    background: url(/logo.png) 0 0 no-repeat;
     background-size: contain;
     display: block;
     position: absolute;
