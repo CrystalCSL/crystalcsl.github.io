@@ -8,14 +8,15 @@ a, article, aside, body, button, dd, div, dl, dt, em, fieldset, figcaption, figu
 }
 
 body {
-    background: #f0e2fb;
+    background: url(banner.jpg) no-repeat 75%/ cover;
     font-family: Nunito, PingFang SC, 微软雅黑, Microsoft Yahei, 宋体, Helvetica, Arial, simsun;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-weight: 400;
     overflow-x: hidden;
-    color: #aa8592
+    color: #aa8592;
+    background: url(/banner.png) no-repeat 75%/ cover;
 }
 
 .reset_clearfix_hppdO:after, .reset_clearfix_hppdO:before {
@@ -232,7 +233,7 @@ input[type=number] {
     content: "";
     width: 40px;
     height: 40px;
-    background: url(/logo.png) 0 0 no-repeat;
+    background: url(/d01c1c79b8afb37bd3128ea41b4f41fb.png) 0 0 no-repeat;
     background-size: contain;
     display: block;
     position: absolute;
@@ -1067,7 +1068,7 @@ input[type=number] {
 }
 
 .common_protect_1_9b- {
-    border: 2px solid #efd2f3;
+    border: 2px solid green;
     border-radius: 4px;
     width: 880px;
     display: flex;
